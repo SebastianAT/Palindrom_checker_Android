@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Palindrom_checker</string>
-    <string name="TextFirst">Gib ein Wort ein um zu prüfen ob es ein Palindrom ist!</string>
+    <string name="TextFirst">Palindrom?</string>
+    <string name="buttonText"> Check!</string>
     <string name="TextField1"></string>
     <string name="creator">Created by SeTra</string>
 </resources>
