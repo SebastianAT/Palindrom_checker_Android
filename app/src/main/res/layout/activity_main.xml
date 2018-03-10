@@ -28,7 +28,7 @@
         android:ems="10"
         android:inputType="text"
         android:text="@string/TextField1"
-        android:digits="abcdefghijklmnopqrstuvwxyz1234567890 "
+        android:digits="abcdefghijklmnopqrstuvwxyz"
         tools:layout_constraintBottom_creator="1"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
         tools:layout_constraintLeft_creator="1"
